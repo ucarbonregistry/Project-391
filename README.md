@@ -5,9 +5,11 @@ The project “2.425 MW Bundled Wind Power Project in Tamil Nadu” is a bundled
 of 10 Wind Energy Generators, or WEGs located in 6 different villages in the of district of Tiruppur
 and Tenkasi, in Tamil Nadu, India.
 
-The concerned WEGs have been installed over time, from 2009 to 2012. The details of the
-commissioning date and location of project WEGs are as follows:
+The concerned WEGs have been installed over time, from 2009 to 2012. 
 
+The details of the
+commissioning date and location of project WEGs are as follows:
+____________________________
 Sr. No/HTSC No.(Old) / HTSC. No (New)/ Installed capacity(KW) / Commissioning Date / Village State
 _____________
 1 /1717 /039224391464 /250/ 29-09-2009 /Kethalrav /Tamil Nadu
